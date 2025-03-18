@@ -1,0 +1,12 @@
+# IDE and tooling
+.cursor/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build and logs
+*.log
+build/
