@@ -10,3 +10,16 @@ Thumbs.db
 # Build and logs
 *.log
 build/
+
+# APK and decompiled output
+*.apk
+diva_decompiled/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Reports and generated files
+*.txt
